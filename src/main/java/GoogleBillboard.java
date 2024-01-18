@@ -3,7 +3,7 @@ public class GoogleBillboard {
 	public static void main(final String[] args) {
 		int n = 2;
 		double num = 0;
-		String numString = new String;
+		String numString = new String("");
 		System.out.println("Problem 1:");
 		while (!isPrime(num)) {
 			numString = e.substring(n,n+10);
